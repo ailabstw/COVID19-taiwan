@@ -27,7 +27,7 @@
 - [ ] ORF10.
 - [ ] ACE2 protein (for Human)
 
-:sparkles: 我們現階段已經完成 docking **3CL-protease**, **RdRp**, **Helicase** 及 **Spike protein**。
+:sparkles: 我們現階段已經完成 docking **3CL-protease**、**RdRp**、**Helicase** 及 **Spike protein**。
 
 ### 健保藥物結果
 
@@ -49,8 +49,8 @@
 
 ---
 ## Tools:
-* TAIGenomics
-* V2L (variant2literature)
+* [TAIGenomics](https://www.taigenomics.com/console/wuhan/)
+* V2L [variant2literature](https://v2l.taigenomics.com/)
 
 ---
 ## Data sources:
@@ -84,7 +84,7 @@
         * **Tsung-Ting Hsieh**
         * **Shang-Shung Shih**
     * System Engineer
-        *  **Ray, Chan-Hung Su**
+        *  **Rey, Chan-Hung Su**
         *  **Amber, Su-Shia Wang**
         *  **Jerry, Jheng-Ying Yu**
 
