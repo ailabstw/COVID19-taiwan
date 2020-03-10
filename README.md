@@ -5,7 +5,6 @@
 - [x] RNA-dependent RNA polymerase (RdRp) inhibitor
 - [x] Helicase inhibitor (Hel)
 - [x] Spike protein
-- [ ] ACE2 protein
 - [ ] Papain-like protease
 - [ ] nsp1
 - [ ] Non-structureal protein 2 (nsp2)
@@ -26,6 +25,7 @@
 - [ ] ORF8.
 - [ ] N. protein
 - [ ] ORF10.
+- [ ] ACE2 protein (for Human)
 
 :sparkles: 我們現階段已經完成 docking **3CL-protease**, **RdRp**, **Helicase** 及 **Spike protein**。
 
