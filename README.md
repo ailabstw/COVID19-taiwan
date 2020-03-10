@@ -40,7 +40,7 @@
 :pill: 如果您對台灣的健保藥物有興趣，我們提供完整的清單可以自行下載，[申請連結](https://forms.gle/62exURZBf2ZLDYuk9)
  
 ### FDA 藥物結果
-從 [ZINC15](http://zinc15.docking.org/) 取得 1,614 個不同的藥物，其中有570藥物與台灣健保藥物重複，我們提供 3CL-Protease、RdRp、與 Helicase docking binding affinity 結果。
+從 [ZINC15](http://zinc15.docking.org/) 取得 1,615 個不同的藥物，其中有570藥物與台灣健保藥物重複，我們提供 3CL-Protease、RdRp、與 Helicase docking binding affinity 結果。
 
 ---
 ## Publication:
