@@ -1,5 +1,7 @@
 # COVID19-taiwan NHI Drug Data Repository by Tawian AI Labs Intellgent Medical Genomics Team
 
+![image](https://github.com/ailabstw/COVID19-taiwan/blob/master/pic/protease.gif)
+
 ## COVID19 genome structure, a total of 24 protein.
 
 - [x] 3CL-protease inhibitor (3CL-Pro)

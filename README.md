@@ -1,6 +1,9 @@
 # COVID19 Taiwan NHI Drug Data Repository by Taiwan AI Labs Intelligent Medical Genomics Team
 
+![image](https://github.com/ailabstw/COVID19-taiwan/blob/master/pic/protease.gif)
+
 ## COVID19 基因組結構名稱，總共24個蛋白質
+
 - [x] 3CL-protease inhibitor (3CL-Pro)
 - [x] RNA-dependent RNA polymerase (RdRp) inhibitor
 - [x] Helicase inhibitor (Hel)
