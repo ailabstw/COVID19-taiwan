@@ -42,6 +42,10 @@
 ### FDA 藥物結果
 從 [ZINC15](http://zinc15.docking.org/) 取得 1,615 個不同的藥物，其中有570藥物與台灣健保藥物重複，我們提供 3CL-Protease、RdRp、與 Helicase docking binding affinity 結果。
 
+:mega: 新增 [ZINC compound structure](https://github.com/ailabstw/COVID19-taiwan/blob/master/release/TW_AI_Labs_FDA_1615_ZINC15_50_times_docking_with_compound_structure_release.xlsx)。
+    
+* 感謝 [@hsiaoyi0504](https://github.com/hsiaoyi0504/COVID19-taiwan/tree/jupyter_notebook) 使用 [RDKit](https://www.rdkit.org/) 協助產生 compound structure，提供 [jupyter notebook view](https://github.com/hsiaoyi0504/COVID19-taiwan/blob/jupyter_notebook/Untitled.ipynb)。
+
 ---
 ## Publication:
 
@@ -83,6 +87,7 @@
         * **Hung-Ching Chang**
         * **Tsung-Ting Hsieh**
         * **Shang-Shung Shih**
+        * **Yi Hsiao**
     * System Engineer
         *  **Rey, Chan-Hung Su**
         *  **Amber, Su-Shia Wang**
